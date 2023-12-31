@@ -1,4 +1,4 @@
-Id,Modulation Technique,Resistance to Interference,Transmission Range,Audio Quality,Bandwidth,speceis
+Id,Modulation Technique,Resistance to Interference,Transmission Range,Audio Quality,Bandwidth,species
 0,800,1,0,1,80,AM
 1,95000,0,1,0,30,FM
 2,1000,1,0,1,80,AM
